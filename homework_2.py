@@ -75,3 +75,5 @@ class Villain(AnemoHeroes):
         
 d = Villain
 print(d.people)
+
+
